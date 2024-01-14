@@ -1,0 +1,1232 @@
+[10-Aug-2023 09:53:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 09:56:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 09:56:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 09:57:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 09:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 09:58:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 09:59:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 10:00:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 10:02:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'root', 'WEB DESIGNER', 'profitedge')
+#1 /home/finvesti/public_html/server/Login_Validation.php(4): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 10:39:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 10:40:27 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:40:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:40:45 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:40:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:01 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:04 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:51 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:51 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:53 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:53 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:14:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 11:14:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 11:23:30 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:23:31 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:23:32 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:23:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:24:54 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:24:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:28:36 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 11:43:40 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/server/invest.php on line 5
+[10-Aug-2023 11:43:40 UTC] PHP Warning:  Undefined array key "LOGGED_IN_PHONE" in /home/finvesti/public_html/server/invest.php on line 6
+[10-Aug-2023 11:43:40 UTC] PHP Warning:  Undefined array key "LOGGED_IN_USERNAME" in /home/finvesti/public_html/server/invest.php on line 7
+[10-Aug-2023 11:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/server/invest.php on line 24
+[10-Aug-2023 11:44:16 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:44:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 11:44:30 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/finvesti/public_html/server/recievefrom.php on line 4
+[10-Aug-2023 11:44:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/server/recievefrom.php on line 4
+[10-Aug-2023 11:44:30 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/finvesti/public_html/server/recievefrom.php on line 5
+[10-Aug-2023 11:44:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/server/recievefrom.php on line 5
+[10-Aug-2023 11:44:30 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/finvesti/public_html/server/recievefrom.php on line 6
+[10-Aug-2023 11:44:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/server/recievefrom.php on line 6
+[10-Aug-2023 11:44:58 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/server/verify_Deposits.php on line 4
+[10-Aug-2023 11:44:59 UTC] PHP Warning:  Undefined array key "LOGGED_IN_USERNAME" in /home/finvesti/public_html/server/verify_Deposits.php on line 5
+[10-Aug-2023 11:44:59 UTC] PHP Warning:  Undefined array key "LOGGED_IN_PHONE" in /home/finvesti/public_html/server/verify_Deposits.php on line 6
+[10-Aug-2023 11:58:27 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 11:58:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 13:23:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'finvesti'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'k.Z1I.lw25CxP1', 'finvesti_profit...')
+#1 /home/finvesti/public_html/server/RegisterUser.php(3): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 13:46:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'finvesti'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'k.Z1I.lw25CxP1', 'finvesti_profit...')
+#1 /home/finvesti/public_html/server/RegisterUser.php(3): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 13:49:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'finvesti'@'localhost' (using password: YES) in /home/finvesti/public_html/server/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/server/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'Keter7680.y', 'finvesti_profit...')
+#1 {main}
+  thrown in /home/finvesti/public_html/server/db_conn.php on line 7
+[10-Aug-2023 13:50:42 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:50:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:50:44 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:50:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:51:12 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:51:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:51:19 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:51:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:51:22 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:51:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:54:31 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:54:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:54:44 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:54:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:57:33 UTC] PHP Warning:  require(./phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:57:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:57:34 UTC] PHP Warning:  require(./phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:57:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 13:58:10 UTC] PHP Warning:  Undefined variable $data in /home/finvesti/public_html/server/RegisterUser.php on line 14
+[10-Aug-2023 13:58:10 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/server/RegisterUser.php on line 14
+[10-Aug-2023 13:59:22 UTC] PHP Warning:  Undefined variable $data in /home/finvesti/public_html/server/RegisterUser.php on line 14
+[10-Aug-2023 13:59:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/server/RegisterUser.php on line 14
+[10-Aug-2023 13:59:41 UTC] PHP Warning:  Undefined variable $data in /home/finvesti/public_html/server/RegisterUser.php on line 14
+[10-Aug-2023 13:59:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/server/RegisterUser.php on line 14
+[10-Aug-2023 14:00:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:01:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:02:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:02:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:03:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:03:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:03:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:06:50 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:17:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:19:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:21:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:23:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:25:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:25:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 14:31:29 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 14:31:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 8
+[10-Aug-2023 14:33:43 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 10
+[10-Aug-2023 14:33:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 10
+[10-Aug-2023 14:34:33 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 10
+[10-Aug-2023 14:34:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 10
+[10-Aug-2023 14:36:51 UTC] PHP Warning:  require(/home/finvesti/public_html/server/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:36:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/finvesti/public_html/server/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:38:07 UTC] PHP Warning:  require(/home/finvesti/public_html/server/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:38:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/finvesti/public_html/server/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:40:43 UTC] PHP Warning:  require(/home/finvesti/public_html/server/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:40:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/finvesti/public_html/server/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:43:52 UTC] PHP Warning:  require(/home/finvesti/public_html/server/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:43:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/finvesti/public_html/server/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:46:38 UTC] PHP Warning:  require(./vendor/autoload.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:46:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 6
+[10-Aug-2023 14:56:10 UTC] PHP Warning:  Undefined variable $mysqli in /home/finvesti/public_html/server/RegisterUser.php on line 68
+[10-Aug-2023 14:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/finvesti/public_html/server/RegisterUser.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 68
+[10-Aug-2023 14:58:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:00:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:01:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:01:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:12:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:57:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:58:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:59:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 15:59:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:29:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:30:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:30:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:30:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:31:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:31:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:33:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:34:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:54:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:55:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[10-Aug-2023 16:58:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 02:58:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 05:26:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 06:54:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 06:56:48 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 06:56:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 06:57:39 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 06:57:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:00:11 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:00:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:02:51 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:02:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:04:14 UTC] PHP Warning:  require(./phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:04:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:05:43 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:05:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:07:46 UTC] PHP Warning:  require(../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:07:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:08:18 UTC] PHP Warning:  require(./phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:08:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:10:41 UTC] PHP Warning:  require(../../phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:10:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/RegisterUser.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/RegisterUser.php on line 9
+[11-Aug-2023 07:18:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 07:19:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:03:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:09:40 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/password-reset.php on line 7
+[11-Aug-2023 08:09:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/password-reset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/password-reset.php on line 7
+[11-Aug-2023 08:09:53 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/finvesti/public_html/server/password-reset.php on line 7
+[11-Aug-2023 08:09:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/server/password-reset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/server/password-reset.php on line 7
+[11-Aug-2023 08:15:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:15:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:15:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:16:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:16:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:16:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:16:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:17:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:22:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:29:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:30:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:31:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 08:33:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:08:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:11:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:11:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:11:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:12:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:12:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:13:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:13:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:14:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:14:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:39:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:40:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:41:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:41:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:45:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:46:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:49:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'finvesti_profitedge.transactionsUpdate' doesn't exist in /home/finvesti/public_html/server/invoice.php:66
+Stack trace:
+#0 /home/finvesti/public_html/server/invoice.php(66): mysqli->prepare('SELECT * FROM t...')
+#1 {main}
+  thrown in /home/finvesti/public_html/server/invoice.php on line 66
+[11-Aug-2023 11:49:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'finvesti_profitedge.transactionsUpdate' doesn't exist in /home/finvesti/public_html/server/invoice.php:66
+Stack trace:
+#0 /home/finvesti/public_html/server/invoice.php(66): mysqli->prepare('SELECT * FROM t...')
+#1 {main}
+  thrown in /home/finvesti/public_html/server/invoice.php on line 66
+[11-Aug-2023 11:57:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:58:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 11:59:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'finvesti_profitedge.transactionsUpdate' doesn't exist in /home/finvesti/public_html/server/invoice.php:66
+Stack trace:
+#0 /home/finvesti/public_html/server/invoice.php(66): mysqli->prepare('SELECT * FROM t...')
+#1 {main}
+  thrown in /home/finvesti/public_html/server/invoice.php on line 66
+[11-Aug-2023 12:01:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'finvesti_profitedge.transactionsUpdate' doesn't exist in /home/finvesti/public_html/server/invoice.php:66
+Stack trace:
+#0 /home/finvesti/public_html/server/invoice.php(66): mysqli->prepare('SELECT * FROM t...')
+#1 {main}
+  thrown in /home/finvesti/public_html/server/invoice.php on line 66
+[11-Aug-2023 12:03:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'finvesti_profitedge.transactionsUpdate' doesn't exist in /home/finvesti/public_html/server/invoice.php:70
+Stack trace:
+#0 /home/finvesti/public_html/server/invoice.php(70): mysqli->prepare('SELECT * FROM t...')
+#1 {main}
+  thrown in /home/finvesti/public_html/server/invoice.php on line 70
+[11-Aug-2023 12:12:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:12:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:16:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:16:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:19:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:24:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:25:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:28:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:38:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:39:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 12:42:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 13:12:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 13:33:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 15:07:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 16:01:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 17:23:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 18:20:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 18:20:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 19:18:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[11-Aug-2023 22:58:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/server/Login_Validation.php on line 77
+[12-Aug-2023 07:02:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 07:03:25 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[12-Aug-2023 07:03:27 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "email_address" in /home/finvesti/public_html/RegisterUser.php on line 30
+[12-Aug-2023 07:03:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 17
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "first_name" in /home/finvesti/public_html/RegisterUser.php on line 31
+[12-Aug-2023 07:03:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 17
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "last_name" in /home/finvesti/public_html/RegisterUser.php on line 32
+[12-Aug-2023 07:03:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 17
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "username" in /home/finvesti/public_html/RegisterUser.php on line 33
+[12-Aug-2023 07:03:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 17
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "password" in /home/finvesti/public_html/RegisterUser.php on line 34
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "phone_Number" in /home/finvesti/public_html/RegisterUser.php on line 35
+[12-Aug-2023 07:03:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 17
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "conf_password" in /home/finvesti/public_html/RegisterUser.php on line 36
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined array key "refferer" in /home/finvesti/public_html/RegisterUser.php on line 37
+[12-Aug-2023 07:03:41 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 17
+[12-Aug-2023 07:03:41 UTC] PHP Warning:  Undefined variable $stmt1 in /home/finvesti/public_html/RegisterUser.php on line 180
+[12-Aug-2023 07:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/finvesti/public_html/RegisterUser.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/RegisterUser.php on line 180
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "email_address" in /home/finvesti/public_html/RegisterUser.php on line 28
+[12-Aug-2023 07:04:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 15
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "first_name" in /home/finvesti/public_html/RegisterUser.php on line 29
+[12-Aug-2023 07:04:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 15
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "last_name" in /home/finvesti/public_html/RegisterUser.php on line 30
+[12-Aug-2023 07:04:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 15
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "username" in /home/finvesti/public_html/RegisterUser.php on line 31
+[12-Aug-2023 07:04:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 15
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "password" in /home/finvesti/public_html/RegisterUser.php on line 32
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "phone_Number" in /home/finvesti/public_html/RegisterUser.php on line 33
+[12-Aug-2023 07:04:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 15
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "conf_password" in /home/finvesti/public_html/RegisterUser.php on line 34
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined array key "refferer" in /home/finvesti/public_html/RegisterUser.php on line 35
+[12-Aug-2023 07:04:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/finvesti/public_html/RegisterUser.php on line 15
+[12-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined variable $stmt1 in /home/finvesti/public_html/RegisterUser.php on line 178
+[12-Aug-2023 07:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/finvesti/public_html/RegisterUser.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/RegisterUser.php on line 178
+[12-Aug-2023 07:15:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:19:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:29:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:39:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:39:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:41:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:42:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 08:49:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 10:04:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 13:37:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 13:47:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 18:11:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Aug-2023 19:24:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 04:15:27 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 11:12:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 11:12:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 12:29:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 12:43:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 12:45:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 12:47:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 13:02:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 13:03:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 13:03:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 13:13:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 15:36:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 16:02:50 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 16:29:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 16:30:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Aug-2023 19:55:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 04:26:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 04:52:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 05:18:46 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[14-Aug-2023 05:19:11 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[14-Aug-2023 05:25:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 08:56:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 09:20:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 10:06:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 12:25:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 15:42:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 15:42:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 17:04:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 17:25:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Aug-2023 17:27:50 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Aug-2023 05:14:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Aug-2023 10:53:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Aug-2023 14:16:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Aug-2023 16:23:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Aug-2023 16:25:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 06:01:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 08:27:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 09:02:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 12:16:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 13:14:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 13:15:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 15:39:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 15:39:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Aug-2023 16:32:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Aug-2023 04:19:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Aug-2023 05:42:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Aug-2023 14:23:22 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Aug-2023 16:04:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Aug-2023 21:11:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 10:37:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:17:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:18:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:18:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:19:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:36:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:37:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:38:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:38:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 14:42:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 16:02:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Aug-2023 16:03:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 09:47:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 09:50:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 09:53:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 09:53:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 09:57:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:04:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:32:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:38:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:38:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:39:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:57:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:57:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 10:58:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 11:09:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 11:18:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 11:22:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 11:23:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 12:29:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 12:29:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 14:30:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 14:32:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 14:53:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 14:55:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:17:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:19:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:19:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:19:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:20:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:20:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:20:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:21:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:21:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 15:22:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 18:12:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 18:14:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 18:14:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 18:16:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 18:18:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 21:38:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Aug-2023 21:40:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 01:30:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 01:34:51 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[20-Aug-2023 04:37:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 11:15:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 11:16:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 11:17:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 11:50:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 11:51:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 13:10:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 13:12:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 13:43:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 13:47:30 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[20-Aug-2023 15:36:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 15:36:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Aug-2023 17:04:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 04:10:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 05:19:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 05:21:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 08:19:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 08:30:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 08:31:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 08:32:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 09:00:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 14:51:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 14:51:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 14:52:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 14:56:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 15:06:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 15:06:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 15:07:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 15:07:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:39:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:39:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:44:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:44:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:46:50 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:47:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:47:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:48:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:56:27 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:57:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 16:57:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:03:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:03:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:03:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:13:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:13:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:19:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:19:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:27:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:31:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:31:36 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:32:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:36:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:37:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 17:46:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:11:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:11:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:11:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:14:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:15:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:15:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:16:37 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[21-Aug-2023 18:16:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:16:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:28:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:29:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 18:32:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 19:10:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Aug-2023 19:57:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 01:56:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 06:10:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 06:16:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 06:18:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:40:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:42:50 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:44:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:49:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:50:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:50:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:50:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:57:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 07:59:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:06:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:13:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:21:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:21:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:24:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:25:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:26:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:27:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:27:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:53:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:53:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:53:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:54:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 08:55:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 09:29:35 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[22-Aug-2023 09:44:22 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 09:45:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 09:51:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 09:51:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'Email_Address' in field list is ambiguous in /home/finvesti/public_html/admin.php:91
+Stack trace:
+#0 /home/finvesti/public_html/admin.php(91): mysqli->prepare('SELECT COUNT(Em...')
+#1 {main}
+  thrown in /home/finvesti/public_html/admin.php on line 91
+[22-Aug-2023 09:56:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 10:00:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 10:08:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 10:08:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 10:09:35 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[22-Aug-2023 10:11:13 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[22-Aug-2023 10:32:22 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 10:34:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 10:36:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 11:14:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 12:44:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 13:05:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 13:06:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 14:57:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Aug-2023 18:14:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 04:52:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 05:57:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 05:57:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 08:40:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 09:00:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 10:35:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 11:44:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 11:45:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 11:49:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 12:06:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 12:32:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 13:11:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 15:10:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 16:06:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 16:09:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 16:09:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 17:13:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 18:28:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Aug-2023 20:47:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Aug-2023 04:20:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Aug-2023 08:54:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Aug-2023 10:23:33 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[24-Aug-2023 10:27:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Aug-2023 17:04:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Aug-2023 17:05:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Aug-2023 18:57:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 06:01:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 11:45:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 15:32:36 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 15:35:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 15:37:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 15:58:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Aug-2023 18:00:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Aug-2023 05:14:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Aug-2023 06:46:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Aug-2023 08:36:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Aug-2023 17:29:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[27-Aug-2023 07:10:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[27-Aug-2023 10:54:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:02:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:04:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:32:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:32:44 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:32:47 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[28-Aug-2023 06:33:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:34:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:34:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:36:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 06:46:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 07:00:02 UTC] PHP Warning:  require(./db_conn): Failed to open stream: No such file or directory in /home/finvesti/public_html/Login_Validation.php on line 4
+[28-Aug-2023 07:00:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './db_conn' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/finvesti/public_html/Login_Validation.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/finvesti/public_html/Login_Validation.php on line 4
+[28-Aug-2023 07:04:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 13:17:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 18:01:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 18:25:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 18:26:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 21:56:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 21:57:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 22:01:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Aug-2023 22:05:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[29-Aug-2023 13:29:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[29-Aug-2023 15:09:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 06:53:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 06:54:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 10:30:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 12:42:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 12:44:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 12:44:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 12:44:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 12:53:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 12:53:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Aug-2023 20:45:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[31-Aug-2023 05:03:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[31-Aug-2023 11:56:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[31-Aug-2023 11:59:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[31-Aug-2023 11:59:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[01-Sep-2023 15:14:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[02-Sep-2023 05:32:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[02-Sep-2023 19:46:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[03-Sep-2023 11:12:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[03-Sep-2023 11:15:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 09:53:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 09:53:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:19:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:21:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:22:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:23:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:23:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:24:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:25:38 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 10:26:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:27:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:30:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:35:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:38:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:40:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:40:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:44:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:47:17 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 10:47:22 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:51:50 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 10:51:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 10:51:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 11:03:29 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 11:04:37 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 11:04:37 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 11:06:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 11:08:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 11:17:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 12:16:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Sep-2023 14:18:09 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[05-Sep-2023 15:13:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Sep-2023 07:59:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Sep-2023 07:59:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Sep-2023 09:25:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Sep-2023 09:25:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[07-Sep-2023 09:24:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[07-Sep-2023 16:04:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:21:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:21:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:22:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:23:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:28:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:34:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:35:38 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:42:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:48:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:50:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 09:53:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 11:55:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 11:58:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 11:58:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Sep-2023 12:06:11 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[08-Sep-2023 12:06:12 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[09-Sep-2023 03:53:34 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 07:57:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 09:37:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 11:09:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 11:10:41 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/verifyAccountHandle.php on line 7
+[09-Sep-2023 11:11:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 11:11:49 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/verifyAccountHandle.php on line 7
+[09-Sep-2023 11:12:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 11:12:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:23:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:36:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:48:02 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[09-Sep-2023 12:48:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:48:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:49:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:49:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:49:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:50:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:50:27 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:59:07 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[09-Sep-2023 12:59:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 12:59:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:01:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:06:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:06:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:08:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:09:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:20:15 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[09-Sep-2023 13:20:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:22:57 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[09-Sep-2023 13:23:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 13:44:39 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[09-Sep-2023 14:20:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 15:18:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 15:18:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[09-Sep-2023 17:54:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Sep-2023 04:36:50 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Sep-2023 04:37:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Sep-2023 10:01:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Sep-2023 13:22:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 05:56:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 05:57:07 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 05:57:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 05:57:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 05:57:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 05:58:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 05:58:51 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 05:59:13 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 06:12:02 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 06:12:06 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 07:09:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:11:35 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 07:12:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:16:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:21:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:25:23 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 07:25:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:28:31 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 07:28:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:29:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:42:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 07:42:36 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[11-Sep-2023 07:43:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[11-Sep-2023 13:28:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Sep-2023 16:05:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Sep-2023 16:11:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Sep-2023 16:11:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Sep-2023 16:14:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Sep-2023 07:06:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Sep-2023 07:06:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Sep-2023 10:38:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Sep-2023 10:51:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Sep-2023 09:06:36 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Sep-2023 09:07:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Sep-2023 09:12:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Sep-2023 15:24:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Sep-2023 15:25:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Sep-2023 15:39:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 05:53:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 05:54:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 06:05:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 06:05:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 06:15:23 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[16-Sep-2023 06:19:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 18:02:22 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 18:04:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 18:05:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 18:06:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 18:07:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[16-Sep-2023 18:14:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 07:11:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:01:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:33:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:38:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:38:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:49:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:50:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:51:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:56:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:57:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:58:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 13:59:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:03:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:03:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:03:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:04:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:04:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:04:41 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:08:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:08:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 14:14:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:06:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:28:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:30:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:43:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:44:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:46:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:48:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:51:36 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 15:55:11 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[17-Sep-2023 15:55:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[17-Sep-2023 19:33:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 05:39:15 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 08:04:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 08:17:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 09:00:06 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 18:04:28 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 18:04:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 18:05:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 18:07:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[18-Sep-2023 18:56:36 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[19-Sep-2023 06:23:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[19-Sep-2023 10:05:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Sep-2023 04:27:02 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[20-Sep-2023 04:27:16 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[20-Sep-2023 16:15:46 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[20-Sep-2023 16:15:53 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Sep-2023 07:38:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Sep-2023 07:40:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Sep-2023 10:09:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Sep-2023 16:07:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 06:09:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 07:22:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 07:31:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 07:33:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 07:52:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 08:02:04 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/verifyAccountHandle.php on line 7
+[22-Sep-2023 08:02:16 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/verifyAccountHandle.php on line 7
+[22-Sep-2023 08:02:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 08:02:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 08:08:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 08:57:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 09:42:27 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[22-Sep-2023 09:42:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 09:42:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 10:10:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 10:10:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 13:01:51 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[22-Sep-2023 13:11:40 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Sep-2023 15:20:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 06:56:26 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[23-Sep-2023 06:56:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 06:56:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 07:32:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 08:28:58 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[23-Sep-2023 08:29:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 08:29:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 14:22:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 18:15:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 18:16:59 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 18:17:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 19:40:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[23-Sep-2023 19:40:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 04:11:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 04:12:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 04:18:55 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[24-Sep-2023 04:19:05 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 04:19:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 04:24:29 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 07:04:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 08:29:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 09:08:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 10:11:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 10:11:54 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[24-Sep-2023 13:40:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Sep-2023 04:09:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[25-Sep-2023 06:38:30 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[25-Sep-2023 13:55:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Sep-2023 09:33:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Sep-2023 20:54:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Sep-2023 20:55:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[26-Sep-2023 20:56:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[27-Sep-2023 11:40:47 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[27-Sep-2023 18:02:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[28-Sep-2023 11:27:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[29-Sep-2023 08:21:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Sep-2023 14:19:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Oct-2023 06:11:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[05-Oct-2023 16:08:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Oct-2023 11:13:01 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Oct-2023 11:15:09 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Oct-2023 11:15:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Oct-2023 11:19:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[06-Oct-2023 11:24:32 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[08-Oct-2023 08:02:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[08-Oct-2023 09:56:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Oct-2023 09:04:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Oct-2023 12:56:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 03:13:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 03:14:33 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 03:15:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 03:15:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 03:17:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 04:44:00 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 08:12:26 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[13-Oct-2023 16:20:20 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 17:44:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 18:02:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[14-Oct-2023 10:09:23 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 10:09:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 10:12:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 10:13:37 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 10:14:49 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 10:19:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 11:24:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 11:44:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/finvesti/public_html/Account_Balance.php:57
+Stack trace:
+#0 /home/finvesti/public_html/Account_Balance.php(57): mysqli_stmt->get_result()
+#1 /home/finvesti/public_html/home.php(192): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/Account_Balance.php on line 57
+[14-Oct-2023 11:44:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/finvesti/public_html/Account_Balance.php:57
+Stack trace:
+#0 /home/finvesti/public_html/Account_Balance.php(57): mysqli_stmt->get_result()
+#1 /home/finvesti/public_html/home.php(192): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/Account_Balance.php on line 57
+[14-Oct-2023 11:49:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 12:03:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 12:12:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 12:14:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[14-Oct-2023 16:43:40 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[14-Oct-2023 16:43:43 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[14-Oct-2023 16:43:55 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Oct-2023 13:13:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Oct-2023 13:13:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[22-Oct-2023 18:58:31 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[29-Oct-2023 10:25:11 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[29-Oct-2023 10:25:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[29-Oct-2023 10:25:57 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[01-Nov-2023 18:58:19 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Nov-2023 10:01:30 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Nov-2023 10:01:33 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[04-Nov-2023 10:08:37 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[04-Nov-2023 10:09:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 06:24:36 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[10-Nov-2023 06:24:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 06:24:48 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/verify_Deposits.php on line 58
+[10-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/verify_Deposits.php on line 59
+[10-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/finvesti/public_html/verify_Deposits.php on line 60
+[10-Nov-2023 06:32:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/finvesti/public_html/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'xeeeAYn#IRG}', 'finvesti_profit...')
+#1 /home/finvesti/public_html/verify_Deposits.php(3): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/db_conn.php on line 7
+[10-Nov-2023 06:32:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/finvesti/public_html/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'xeeeAYn#IRG}', 'finvesti_profit...')
+#1 /home/finvesti/public_html/verify_Deposits.php(3): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/db_conn.php on line 7
+[10-Nov-2023 06:48:10 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[10-Nov-2023 06:48:32 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 06:51:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/finvesti/public_html/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'xeeeAYn#IRG}', 'finvesti_profit...')
+#1 /home/finvesti/public_html/request.php(3): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/db_conn.php on line 7
+[10-Nov-2023 07:04:51 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 10:36:14 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 10:39:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[10-Nov-2023 10:39:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[15-Nov-2023 14:35:21 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[21-Nov-2023 14:10:29 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[21-Nov-2023 14:13:45 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Nov-2023 15:49:24 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Nov-2023 15:51:42 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Nov-2023 15:52:10 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Nov-2023 15:53:04 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[30-Nov-2023 15:57:03 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[30-Nov-2023 15:57:07 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[04-Dec-2023 20:28:15 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[10-Dec-2023 07:14:43 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[12-Dec-2023 10:34:34 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[12-Dec-2023 10:35:03 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Dec-2023 05:50:01 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[13-Dec-2023 06:07:18 UTC] PHP Warning:  Undefined array key "LOGGED_IN_ACCTYPE" in /home/finvesti/public_html/home.php on line 8
+[13-Dec-2023 06:07:25 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Dec-2023 06:12:54 UTC] PHP Warning:  Undefined array key "LOGGED_IN_EMAIL" in /home/finvesti/public_html/wallet.php on line 4
+[13-Dec-2023 06:13:11 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Dec-2023 06:16:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Dec-2023 06:16:56 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Dec-2023 15:54:58 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[13-Dec-2023 15:55:26 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[27-Dec-2023 12:00:07 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[02-Jan-2024 07:23:12 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 06:23:39 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 06:48:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'finvesti'@'localhost' (using password: YES) in /home/finvesti/public_html/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'xeeeAYn#IRG}', 'finvesti_profit...')
+#1 /home/finvesti/public_html/home.php(6): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/db_conn.php on line 7
+[04-Jan-2024 06:48:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'finvesti'@'localhost' (using password: YES) in /home/finvesti/public_html/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'xeeeAYn#IRG}', 'finvesti_profit...')
+#1 /home/finvesti/public_html/home.php(6): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/db_conn.php on line 7
+[04-Jan-2024 06:48:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'finvesti'@'localhost' (using password: YES) in /home/finvesti/public_html/db_conn.php:7
+Stack trace:
+#0 /home/finvesti/public_html/db_conn.php(7): mysqli->__construct('localhost', 'finvesti', 'xeeeAYn#IRG}', 'finvesti_profit...')
+#1 /home/finvesti/public_html/home.php(6): require('/home/finvesti/...')
+#2 {main}
+  thrown in /home/finvesti/public_html/db_conn.php on line 7
+[04-Jan-2024 07:32:46 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 07:33:02 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 07:35:08 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 07:35:17 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 07:37:35 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 07:46:52 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
+[04-Jan-2024 07:47:18 UTC] PHP Warning:  Undefined variable $response in /home/finvesti/public_html/Login_Validation.php on line 77
